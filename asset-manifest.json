@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/fridager/static/css/main.cb937da8.chunk.css",
+    "main.js": "/fridager/static/js/main.d8eb2017.chunk.js",
+    "main.js.map": "/fridager/static/js/main.d8eb2017.chunk.js.map",
+    "runtime~main.js": "/fridager/static/js/runtime~main.a55fefca.js",
+    "runtime~main.js.map": "/fridager/static/js/runtime~main.a55fefca.js.map",
+    "static/js/2.8a63cc60.chunk.js": "/fridager/static/js/2.8a63cc60.chunk.js",
+    "static/js/2.8a63cc60.chunk.js.map": "/fridager/static/js/2.8a63cc60.chunk.js.map",
+    "index.html": "/fridager/index.html",
+    "precache-manifest.3265b80bd9e8565a7b905a7d6a02ddae.js": "/fridager/precache-manifest.3265b80bd9e8565a7b905a7d6a02ddae.js",
+    "service-worker.js": "/fridager/service-worker.js",
+    "static/css/main.cb937da8.chunk.css.map": "/fridager/static/css/main.cb937da8.chunk.css.map"
+  }
+}
