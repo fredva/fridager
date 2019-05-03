@@ -1,10 +1,11 @@
 import React from 'react';
 import './App.css';
+import Fridager from "./Fridager"
 
 function App() {
   return (
     <div>
-      halla
+      <Fridager/>
     </div>
   );
 }
